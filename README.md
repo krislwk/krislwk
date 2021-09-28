@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome to my GitHub 👋
+
+- 🧑 My Name is Kris Leungwattanakij.
+
+- 🎓 I'm currently a Freshman studying Computer Science at Purdue University.
+
+- 🖥️ The projects I'm working on right now are:
+1) Pava - A convenience library in Java that tries to simulate the Python experience
+2) UPSDMlib - A Python module for parsing the datasets provided by the UPS Private Equity Department
 
 <!--
 **krislwk/krislwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
