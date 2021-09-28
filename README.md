@@ -8,7 +8,7 @@
 1) Pava - A convenience library in Java that tries to simulate the Python experience
 2) UPSDMlib - A Python module for parsing the datasets provided by the UPS Private Equity Department
 
-- 🌟 I am intersted in Flask Web Apps and Neural Nets!
+- 🌟 I am interested in Flask Web Apps and Neural Nets!
 
 <!--
 **krislwk/krislwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
