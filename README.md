@@ -2,7 +2,7 @@
 
 - 🧑 My Name is Kris Leungwattanakij.
 
-- 🎓 I'm currently a Freshman studying Computer Science at Purdue University.
+- 🎓 I'm currently a Sophomore studying Computer Science at Purdue University.
 
 - 🖥️ The projects I'm working on right now are:
 1) Pava - A convenience library in Java that tries to simulate the Python experience
