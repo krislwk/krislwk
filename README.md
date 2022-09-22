@@ -6,7 +6,7 @@
 
 - 🖥️ The projects I'm working on right now are:
 1) Pava - A convenience library in Java that tries to simulate the Python experience
-2) UPSDMlib - A Python module for parsing the datasets provided by the UPS Private Equity Department
+2) StockBot - A discord bot that users can interact with to check the stock of certain items on popular retail sites
 
 - 🌟 I am interested in Flask Web Apps and Neural Nets!
 
