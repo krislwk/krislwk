@@ -4,23 +4,11 @@
 
 - 🎓 I'm currently a Sophomore studying Computer Science at Purdue University.
 
-- 🖥️ The projects I'm working on right now are:
-1) Pava - A convenience library in Java that tries to simulate the Python experience
+- 🖥️ Projects I am working on right now:
+1) Clava - An organizational tool suite for student organizations at Purdue
 2) StockBot - A discord bot that users can interact with to check the stock of certain items on popular retail sites
 
-- 🌟 I am interested in Flask Web Apps and Neural Nets!
-
-<!--
-**krislwk/krislwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌟 Technologies I am currently learning:
+1) Go
+2) React
+3) Spring Boot
