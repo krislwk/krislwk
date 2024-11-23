@@ -2,7 +2,7 @@
 
 - 🧑 My Name is Kris Leungwattanakij.
 
-- 🎓 I'm currently a Sophomore studying Computer Science at Purdue University.
+- 🎓 I'm currently a Senior studying Computer Science at Purdue University.
 
 - 🖥️ Projects I am working on right now:
 1) Clava - An organizational tool suite for student organizations at Purdue
